@@ -5,6 +5,13 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
+[Link to Metodologia](./Posts/Metodologia.html)
+
+| mis post | enlaces |
+| --- | --- |
+| post1 | enlace1 |
+| post2 | [enlace2](./Posts/Metodologia.html) |
+
 
 There should be whitespace between paragraphs.
 
