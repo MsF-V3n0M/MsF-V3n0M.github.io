@@ -2,6 +2,15 @@
 layout: default
 ---
 
+**Bienvenido** a esta tu pagina, donde podras encontrar informacion interesante relacionado al mundo de la ciberseguridad.
+
+<center><img src="./assets/images/cyber_lock_green.png" width="200" height="200"></center>
+
+Tendras a tu disposicion la informacion que he podido recolectar a lo largo del tiempo que llevo estudiando la materia, realizando CTF's y algunas certificaciones, espero que todo sea de tu agrado y sobre todo que sea de utilidad.
+
+Si tienes alguna duda por favor hazmela saber y con gusto tratare de ayudarte a aclararla
+
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
